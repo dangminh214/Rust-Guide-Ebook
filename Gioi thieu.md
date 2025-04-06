@@ -44,7 +44,7 @@ Ngoài ra trong bộ tài liệu này chúng tôi còn cung cấp những điể
 Chúng tôi là một nhóm các lập trình viên đam mê Rust và mong muốn chia sẻ kiến thức với cộng đồng:
 
 - **Nguyễn Đăng Minh**
-  - Chuyên môn: Web Development, Machine Learning Developement, Computer Vision
+  - Chuyên môn: Web Development, Machine Learning, Computer Vision
   - Liên hệ: [GitHub](https://github.com/dangminh214)
 
 - **Nguyễn Tiến Đạt**
