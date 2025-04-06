@@ -35,6 +35,11 @@ Bộ tài liệu được chia thành các phần chính:
 6. Các thư viện và framework phổ biến
 7. Case studies và dự án thực tế
 
+## Đối tượng sử dụng
+
+Tất cả các bạn có niềm đam mê với lập trình, muốn khám phá và tìm hiểu thêm về lập trình nói chung và Rust nói riêng.
+Ngoài ra trong bộ tài liệu này chúng tôi còn cung cấp những điểm đáng chú ý về lập trình Rust
+
 ## Nhóm phát triển
 Chúng tôi là một nhóm các lập trình viên đam mê Rust và mong muốn chia sẻ kiến thức với cộng đồng:
 
