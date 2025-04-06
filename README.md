@@ -62,7 +62,7 @@ Chúng tôi rất hoan nghênh sự đóng góp từ cộng đồng! Bạn có t
 ## 👥 Nhóm phát triển
 
 - **Nguyễn Đăng Minh**
-  - Chuyên môn: Web Development, Machine Learning Development, Computer Vision
+  - Chuyên môn: Web Development, Machine Learning, Computer Vision
   - GitHub: [@dangminh214](https://github.com/dangminh214)
 
 - **Nguyễn Tiến Đạt**
@@ -75,4 +75,4 @@ Dự án này được phân phối dưới giấy phép MIT.
 
 ## 🙏 Cảm ơn
 
-Cảm ơn tất cả những người đã đóng góp cho dự án này! 
+Cảm ơn tất cả những người đã đóng góp cho dự án này!
