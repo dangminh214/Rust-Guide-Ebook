@@ -36,6 +36,17 @@ cargo --version
 
 ## 4. Cấu trúc dự án Rust với Cargo
 
+Cargo là hệ thống quản lý gói và công cụ xây dựng chính thức của Rust. Nó cung cấp các tính năng quan trọng để phát triển và quản lý dự án Rust một cách hiệu quả:
+
+- **Quản lý phụ thuộc**: Tự động tải xuống và cập nhật các thư viện (crates)
+- **Xây dựng dự án**: Biên dịch và tối ưu mã nguồn
+- **Testing và benchmarking**: Hỗ trợ kiểm thử tích hợp
+- **Xuất bản crates**: Đăng tải thư viện lên crates.io
+- **Quản lý workspace**: Tổ chức các dự án liên quan
+- **Profiles**: Cấu hình biên dịch cho các môi trường khác nhau (debug/release)
+
+Cargo được cài đặt mặc định khi bạn cài đặt Rust và giúp đơn giản hóa quy trình phát triển từ đầu đến cuối.
+
 Tạo dự án mới:
 
 ```bash
@@ -60,6 +71,8 @@ Các lệnh Cargo cơ bản:
 ## 5. Cú pháp cơ bản
 
 ### Biến và tính bất biến
+
+Lưu ý: tất cả các biến trong Rust nếu được khai báo sẽ luôn có mặc định là immutable (không thể thay đổi)
 
 ```rust
 // Biến mặc định là bất biến (immutable)
