@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) -->
 
-Một bộ tài liệu hướng dẫn học Rust bằng tiếng Việt, được biên soạn bởi cộng đồng lập trình viên Việt Nam.
+Một bộ tài liệu hướng dẫn học Rust bằng tiếng Việt, được biên soạn bởi Nguyễn Đăng Minh và Nguyễn Tiến Đạt
 
 ## 📚 Giới thiệu
 
