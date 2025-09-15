@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello Rust!");
+    println!("{number:0>width$}", number=1, width=5);
 }
